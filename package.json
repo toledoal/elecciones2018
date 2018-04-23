@@ -1,0 +1,22 @@
+{
+  "name": "elecciones2018",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toledoal/elecciones2018.git"
+  },
+  "author": "Alejandro Toledo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/toledoal/elecciones2018/issues"
+  },
+  "homepage": "https://github.com/toledoal/elecciones2018#readme",
+  "dependencies": {
+    "npm": "^5.8.0"
+  }
+}
