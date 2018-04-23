@@ -1,0 +1,174 @@
+{
+  "contractName": "NameIt",
+  "abi": [
+    {
+      "inputs": [],
+      "payable": false,
+      "stateMutability": "nonpayable",
+      "type": "constructor"
+    }
+  ],
+  "bytecode": "0x6080604052348015600f57600080fd5b50603580601d6000396000f3006080604052600080fd00a165627a7a72305820ff376b39dac9b1915f16275e714218dddce1cc1c126f879d39c3036d624c68d70029",
+  "deployedBytecode": "0x6080604052600080fd00a165627a7a72305820ff376b39dac9b1915f16275e714218dddce1cc1c126f879d39c3036d624c68d70029",
+  "sourceMap": "26:72:1:-;;;48:48;8:9:-1;5:2;;;30:1;27;20:12;5:2;48:48:1;26:72;;;;;;",
+  "deployedSourceMap": "26:72:1:-;;;;;",
+  "source": "pragma solidity ^0.4.4;\n\n\ncontract NameIt {\n    constructor () public {\n    // constructor\n    }\n}\n",
+  "sourcePath": "/Users/alex/Dropbox (Toledo Design)/Alejandro Toledo/Projects/elecciones2018/backend/contracts/NameIt.sol",
+  "ast": {
+    "absolutePath": "/Users/alex/Dropbox (Toledo Design)/Alejandro Toledo/Projects/elecciones2018/backend/contracts/NameIt.sol",
+    "exportedSymbols": {
+      "NameIt": [
+        19
+      ]
+    },
+    "id": 20,
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 14,
+        "literals": [
+          "solidity",
+          "^",
+          "0.4",
+          ".4"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "0:23:1"
+      },
+      {
+        "baseContracts": [],
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "documentation": null,
+        "fullyImplemented": true,
+        "id": 19,
+        "linearizedBaseContracts": [
+          19
+        ],
+        "name": "NameIt",
+        "nodeType": "ContractDefinition",
+        "nodes": [
+          {
+            "body": {
+              "id": 17,
+              "nodeType": "Block",
+              "src": "70:26:1",
+              "statements": []
+            },
+            "documentation": null,
+            "id": 18,
+            "implemented": true,
+            "isConstructor": true,
+            "isDeclaredConst": false,
+            "modifiers": [],
+            "name": "",
+            "nodeType": "FunctionDefinition",
+            "parameters": {
+              "id": 15,
+              "nodeType": "ParameterList",
+              "parameters": [],
+              "src": "60:2:1"
+            },
+            "payable": false,
+            "returnParameters": {
+              "id": 16,
+              "nodeType": "ParameterList",
+              "parameters": [],
+              "src": "70:0:1"
+            },
+            "scope": 19,
+            "src": "48:48:1",
+            "stateMutability": "nonpayable",
+            "superFunction": null,
+            "visibility": "public"
+          }
+        ],
+        "scope": 20,
+        "src": "26:72:1"
+      }
+    ],
+    "src": "0:99:1"
+  },
+  "legacyAST": {
+    "absolutePath": "/Users/alex/Dropbox (Toledo Design)/Alejandro Toledo/Projects/elecciones2018/backend/contracts/NameIt.sol",
+    "exportedSymbols": {
+      "NameIt": [
+        19
+      ]
+    },
+    "id": 20,
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 14,
+        "literals": [
+          "solidity",
+          "^",
+          "0.4",
+          ".4"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "0:23:1"
+      },
+      {
+        "baseContracts": [],
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "documentation": null,
+        "fullyImplemented": true,
+        "id": 19,
+        "linearizedBaseContracts": [
+          19
+        ],
+        "name": "NameIt",
+        "nodeType": "ContractDefinition",
+        "nodes": [
+          {
+            "body": {
+              "id": 17,
+              "nodeType": "Block",
+              "src": "70:26:1",
+              "statements": []
+            },
+            "documentation": null,
+            "id": 18,
+            "implemented": true,
+            "isConstructor": true,
+            "isDeclaredConst": false,
+            "modifiers": [],
+            "name": "",
+            "nodeType": "FunctionDefinition",
+            "parameters": {
+              "id": 15,
+              "nodeType": "ParameterList",
+              "parameters": [],
+              "src": "60:2:1"
+            },
+            "payable": false,
+            "returnParameters": {
+              "id": 16,
+              "nodeType": "ParameterList",
+              "parameters": [],
+              "src": "70:0:1"
+            },
+            "scope": 19,
+            "src": "48:48:1",
+            "stateMutability": "nonpayable",
+            "superFunction": null,
+            "visibility": "public"
+          }
+        ],
+        "scope": 20,
+        "src": "26:72:1"
+      }
+    ],
+    "src": "0:99:1"
+  },
+  "compiler": {
+    "name": "solc",
+    "version": "0.4.23+commit.124ca40d.Emscripten.clang"
+  },
+  "networks": {},
+  "schemaVersion": "2.0.0",
+  "updatedAt": "2018-04-23T18:38:44.554Z"
+}

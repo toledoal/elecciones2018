@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/toledoal/elecciones2018#readme",
   "dependencies": {
-    "npm": "^5.8.0"
+    "truffle": "^4.1.7"
   }
 }
