@@ -1,4 +1,4 @@
-var Elections = artifacts.require("./Electionsa");
+var Elections = artifacts.require("./Elections");
 
 module.exports = function(deployer) {
   deployer.deploy(Elections);
